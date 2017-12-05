@@ -20,3 +20,7 @@ apache-maven-3.5.0-bin（环境变量）
 oracle 参见群内资料
 
 KATALON STUDIO 自动化测试 https://www.katalon.com/
+
+mybatis-generator-gui：https://github.com/zouzg/mybatis-generator-gui
+封装直接使用版本：
+https://github.com/HibisciDai/mybatis-generator-gui
