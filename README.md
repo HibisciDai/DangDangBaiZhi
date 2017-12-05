@@ -1,10 +1,11 @@
 # DangDangBaiZhi
 百知教育2017-2018学年第一学期大作业当当网
 
+项目源码部署地址：
+https://github.com/HibisciDai/DangDangBaiZhi
+
 项目阿里云地址：
 http://120.77.204.143:8989/DangDang/main/toMain.action
-
-开发功能约束：
 
 开发环境及工具要求：
 MyEclipse Professional 2014 安装包见机房电脑
